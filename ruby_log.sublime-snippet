@@ -6,5 +6,5 @@ p "${1:thing}:", ${1:thing}
   <tabTrigger>log</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.ruby</scope>
-  <description>logger.info</description>
+  <description>log that thing</description>
 </snippet>
