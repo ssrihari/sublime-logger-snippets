@@ -15,7 +15,7 @@
 
 Type `log <TAB> thing` to get output of `console.log('thing: ', thing)`
 
-Type `log <TAB> thing` to get output of `console.log('thing')`
+Type `logs <TAB> thing` to get output of `console.log('thing')`
 
 Type `info <TAB> thing` to get output of `console.info('thing: ', thing)`
 
